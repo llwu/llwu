@@ -1,0 +1,16 @@
+一、Single-Chip Micorcomputer
+  1、CPU （主频&架构：51/ARM/RISC-V）
+  2、SRAM（SRAM（Static Random-Access Memory），即静态随机存储器，不需要刷新电路即能保存它内部存储的数据; DRAM（Dynamic Random Access Memory），即动态随机存储器，每隔一段时间，要刷新充电一次，否则内部的数据即会消失，一般用于内存。）
+  3、FLASH
+  4、外设（定时器 AD DA DMA）
+  5、总线 & 时钟
+二、产品目的
+  1、SCM Single-Chip Microcomputer
+  2、MCU 微控制器：完善控制
+  3、SoC 嵌入式系统：软硬件协同设计（专用化芯片）
+
+CISC(复杂指令集计算机) 8051 X86(computer)
+RISC(精简指令集计算机) ARM(phone pad)  MIPS  RISC-V
+
+冯诺依曼架构 无法同时读取程序和数据
+哈佛架构 程序存储器和数据存储器分开，可以同时读取
